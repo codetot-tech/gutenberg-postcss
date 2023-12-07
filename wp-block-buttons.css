@@ -1,0 +1,38 @@
+:root {
+  --bs-white: #fff;
+  --bs-black: #000;
+  --bs-primary: #000;
+  --bs-secondary: #333;
+}
+
+.wp-block-button__link.has-black-color {
+  color: var(--bs-black);
+}
+
+.wp-block-button__link.has-white-color {
+  color: var(--bs-white);
+}
+
+.wp-block-button__link.has-primary-color {
+  color: var(--bs-primary);
+}
+
+.wp-block-button__link.has-secondary-color {
+  color: var(--bs-secondary);
+}
+
+.wp-block-button__link.has-black-background-color {
+  background-color: var(--bs-black);
+}
+
+.wp-block-button__link.has-white-background-color {
+  background-color: var(--bs-white);
+}
+
+.wp-block-button__link.has-primary-background-color {
+  background-color: var(--bs-primary);
+}
+
+.wp-block-button__link.has-secondary-background-color {
+  background-color: var(--bs-secondary);
+}
